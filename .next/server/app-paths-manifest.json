@@ -1,5 +1,6 @@
 {
   "/page": "app/page.js",
   "/comunidade/page": "app/comunidade/page.js",
-  "/blog/page": "app/blog/page.js"
+  "/blog/page": "app/blog/page.js",
+  "/dominios/page": "app/dominios/page.js"
 }
