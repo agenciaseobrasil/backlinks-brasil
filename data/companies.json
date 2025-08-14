@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "agencia-seo-brasil",
+    "name": "Agência SEO Brasil",
+    "responsavel": "Gabriel Arnone",
+    "website": "https://agenciaseobrasil.com.br",
+    "verified": true,
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "logoUrl": "/logo-agsb.svg",
+    "nicheTags": [
+      "SEO",
+      "Marketing"
+    ]
+  }
+]

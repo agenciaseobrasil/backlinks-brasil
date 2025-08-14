@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Como avaliar oportunidades de backlinks sem cair em armadilhas",
+    "slug": "avaliar-oportunidades-backlinks",
+    "coverUrl": "/demo/a1.jpg",
+    "description": "Checklist rápido de qualidade e risco para publishers e compradores.",
+    "content": "<p>Backlinks podem impulsionar resultados, mas exigem avaliação criteriosa...</p>"
+  },
+  {
+    "title": "Guest post: políticas, prazos e expectativas realistas",
+    "slug": "guest-post-politicas-prazos",
+    "coverUrl": "/demo/a2.jpg",
+    "description": "Defina regras claras e evite retrabalho na publicação.",
+    "content": "<p>Para guest posts bem-sucedidos, alinhe expectativas desde o briefing...</p>"
+  },
+  {
+    "title": "A diferença entre dofollow, nofollow, sponsored e UGC",
+    "slug": "tipos-de-rel",
+    "coverUrl": "/demo/a3.jpg",
+    "description": "Entenda quando usar cada atributo e por quê.",
+    "content": "<p>O atributo <code>rel</code> orienta mecanismos de busca quanto ao tipo de recomendação...</p>"
+  }
+]

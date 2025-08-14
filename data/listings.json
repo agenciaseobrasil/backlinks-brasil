@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "tecnologiahoje.com.br",
+    "da": 52,
+    "priceCents": 65000,
+    "logo": "/demo/site1.png",
+    "userAvatar": "/demo/u1.jpg",
+    "description": "Guest post, dofollow/sponsored, prazo 7 dias"
+  },
+  {
+    "domain": "mamaeesaude.com",
+    "da": 41,
+    "priceCents": 39000,
+    "logo": "/demo/site2.png",
+    "userAvatar": "/demo/u2.jpg",
+    "description": "Link em artigo, nofollow, prazo 3 dias"
+  },
+  {
+    "domain": "esportenews.com.br",
+    "da": 58,
+    "priceCents": 78000,
+    "logo": "/demo/site3.png",
+    "userAvatar": "/demo/u3.jpg",
+    "description": "Guest post, dofollow, prazo 10 dias"
+  },
+  {
+    "domain": "financaspro.com",
+    "da": 47,
+    "priceCents": 55000,
+    "logo": "/demo/site4.png",
+    "userAvatar": "/demo/u4.jpg",
+    "description": "Guest post, sponsored, prazo 5 dias"
+  },
+  {
+    "domain": "viajarmelhor.com.br",
+    "da": 60,
+    "priceCents": 92000,
+    "logo": "/demo/site5.png",
+    "userAvatar": "/demo/u5.jpg",
+    "description": "Link inserção, dofollow, prazo 5 dias"
+  },
+  {
+    "domain": "gastronomialab.com",
+    "da": 38,
+    "priceCents": 32000,
+    "logo": "/demo/site6.png",
+    "userAvatar": "/demo/u6.jpg",
+    "description": "Guest post, nofollow, prazo 4 dias"
+  }
+]
